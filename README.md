@@ -2,6 +2,7 @@
 Clona el repositorio desde GitHub: [https://github.com/lpmaldonado/RepoTest.git]
 
 1. Instala las dependencias del proyecto utilizando npm:
+
 npm install
 
 
