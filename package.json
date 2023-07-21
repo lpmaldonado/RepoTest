@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "description": "Desarrollo de los ejericios con Cypress Leidy Pineda",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "cypress run --browser chrome --spec cypress/e2e/**/*.cy.js"
+  },  
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
